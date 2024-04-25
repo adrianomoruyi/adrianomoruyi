@@ -16,6 +16,7 @@ Hi, I'm Adrian!
 -------------------------
 📚 I am a Computer Engineering Student at Toronto Metropolitan University
 📝 I'm especially  interested in software development
+🔭 Currently working on mobile application development
 🌟 Main languages: Java, Python
 🎵 I love rnb, jazz, and música popular brasileira (MPB)
 ```
@@ -27,6 +28,7 @@ Hi, I'm Adrian!
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"></a>
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
@@ -34,7 +36,7 @@ Hi, I'm Adrian!
 <hr/><h3 align="center">🧰 Frameworks and Libraries<h3>
 
 <p align="center">
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"></a>
 
 </p>
 <hr/><h3 align="center">🗄️ Databases and Cloud Hosting<h3>
