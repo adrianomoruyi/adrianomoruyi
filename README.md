@@ -17,7 +17,7 @@ Hi, I'm Adrian!
 📚 I am a Computer Engineering Student at Toronto Metropolitan University
 📝 I'm especially  interested in software development
 🔭 Currently working on mobile application development
-🌟 Main languages: Java, Python
+🌟 Main languages: Java, C, Javascript
 🎵 I love rnb, jazz, and música popular brasileira (MPB)
 ```
 <hr/>
