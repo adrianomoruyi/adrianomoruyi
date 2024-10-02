@@ -45,7 +45,7 @@ Hi, I'm Adrian!
 
 <p align="center">
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-f54e42?style=for-the-badge&logo=oracle&logoColor=white"></a>
 </p>
 <hr/><h3 align="center">💻 Software and Tools<h3>
 
