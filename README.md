@@ -39,7 +39,7 @@ Hi, I'm Adrian!
 
 <p align="center">
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-19BBE6?style=for-the-badge&logo=react&logoColor=white"></a>
 
 </p>
 <hr/><h3 align="center">🗄️ Databases and Cloud Hosting<h3>
