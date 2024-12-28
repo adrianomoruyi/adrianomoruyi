@@ -52,6 +52,7 @@ Hi, I'm Adrian!
 <hr/><h3 align="center">💻 Software and Tools<h3>
 
 <p align="center">
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-086DD7.svg?style=for-the-badge&logo=docker&logoColor=white"</a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
