@@ -48,6 +48,7 @@ Hi, I'm Adrian!
 <p align="center">
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-f54e42?style=for-the-badge&logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 <hr/><h3 align="center">💻 Software and Tools<h3>
 
