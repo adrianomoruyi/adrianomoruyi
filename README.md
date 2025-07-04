@@ -5,7 +5,7 @@ Hi, I'm Adrian!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Electric+Bass+Player;Welcome+to+my+GitHub&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Electric+Bass+Player;Welcome+to+my+GitHub&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/adrianomoruyi/adrianomoruyi/blob/6d54121b186fdf3606b8d33ca58f3d238623908c/IMG_0737.PNG" width="320" />
